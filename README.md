@@ -7,7 +7,7 @@ An iCal (.ics) calendar of IT, tech, TEDx and related conferences in Athens, Gre
 Add this URL to your calendar app (Google Calendar: *Other calendars → From URL*; Apple Calendar: *File → New Calendar Subscription*):
 
 ```
-https://raw.githubusercontent.com/ariskox/AthensTechConferences/main/athens-tech-conferences.ics
+https://raw.githubusercontent.com/ariskox/TechConferences/main/athens-tech-conferences.ics
 ```
 
 Each event includes the conference's official URL, location and notes.
