@@ -1,0 +1,395 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ariskox//AthensTechConferences//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Athens Tech Conferences
+X-WR-TIMEZONE:Europe/Athens
+X-WR-CALDESC:IT\, tech\, TEDx and related conferences in Athens
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:280312cb391789d6@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261026
+SUMMARY:Startup Greece Week 2026
+LOCATION:Πολλές πόλεις (και Αθήνα)
+URL:https://startup-greece.org/startup-greece-week-2026/
+CATEGORIES:Startup
+DESCRIPTION:https://startup-greece.org/startup-greece-week-2026/\n\nAlready
+  running\; 20+ events in 8+ cities. Only the last 2 days fall inside the d
+ ate range.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f37d613974783173@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+SUMMARY:FOSSCOMM 2026 (19th)
+LOCATION:Πανεπιστήμιο Δυτικής Αττικής\, Θηβώ
+ ν 250\, Αιγάλεω
+URL:https://2026.fosscomm.gr/
+CATEGORIES:FOSS
+DESCRIPTION:https://2026.fosscomm.gr/\n\nFree entry. Programme: pretalx.fos
+ scomm.gr/fosscomm-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:724d07caf528b1c1@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261105
+SUMMARY:MICRO-59 – IEEE/ACM Intl. Symposium on Microarchitecture
+LOCATION:InterContinental Athenaeum\, Συγγρού 89-93
+URL:https://www.microarch.org/micro59/
+CATEGORIES:Academic
+DESCRIPTION:https://www.microarch.org/micro59/\n\nCo-located workshops\, e.
+ g. OASIS-AI on 1/11\n\nSource: https://microarch.org/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:68334292f4ff0731@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261105
+SUMMARY:CIoT 2026 – 9th Intl. Conference on Cloud & IoT
+LOCATION:Αθήνα
+URL:https://ciot.dnac.org/2026/
+CATEGORIES:Academic
+DESCRIPTION:https://ciot.dnac.org/2026/\n\nChair: Papavassiliou (NTUA). Det
+ ailed venue not verified
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:800936fbc95c85be@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:HR Tech & AI Conference 2026 (Boussias)
+LOCATION:Telekom Academy Auditorium\, Πέλικα & Σπάρτης 1\, Μ
+ αρούσι
+URL:https://hrtechai.boussiasevents.gr/
+CATEGORIES:AI/Business
+DESCRIPTION:https://hrtechai.boussiasevents.gr/\n\nBorderline: AI in HR
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6c0d91d6e85283a8@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:ATHENS AI SUMMIT 2026
+LOCATION:Divani Caravel
+URL:https://ai-athens-summit.gr/
+CATEGORIES:AI
+DESCRIPTION:https://ai-athens-summit.gr/\n\n2nd edition
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9c7023c09498723d@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Developers:Day Athens (kariera.gr)
+LOCATION:Ωδείο Αθηνών
+URL:https://www.kariera.gr/events/developers-day/athens-november-2026
+CATEGORIES:Dev/Career
+DESCRIPTION:https://www.kariera.gr/events/developers-day/athens-november-20
+ 26\n\nFree
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:35fd82591c28fdbe@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:Gen AI Summit Hackathon
+LOCATION:Αθήνα
+URL:https://hackathon.polymath42.com/
+CATEGORIES:AI/Hackathon
+DESCRIPTION:https://hackathon.polymath42.com/\n\n36-hour hackathon with ~10
+ 0 participants\; the finalists pitch at the GenAI Summit on 16/11
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eae74bd4a5740a00@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:GenAI Summit SE Europe 2026 (5th)
+LOCATION:ΚΠΙΣΝ (SNFCC)\, Συγγρού 364\, Καλλιθέα
+URL:https://www.genaisummitseeurope.com/
+CATEGORIES:AI
+DESCRIPTION:https://www.genaisummitseeurope.com/\n\n
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cef9ae5ada997bb5@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261122
+SUMMARY:Open Conf 2026
+LOCATION:DAIS Events Center\, Μεσογείων 151\, Μαρούσι
+URL:https://open-conf.gr/
+CATEGORIES:Dev
+DESCRIPTION:https://open-conf.gr/\n\nCFP/agenda: sessionize.com/open-conf-2
+ 026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6988087f1bd1a6a6@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Digital Economy Forum 2026 (ΣΕΠΕ) – Building Intelligence
+LOCATION:Athenaeum InterContinental\, Συγγρού 89-93
+URL:https://deforum.sepe.gr/
+CATEGORIES:Business/ICT
+DESCRIPTION:https://deforum.sepe.gr/\n\n
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:296793b2bf873ac3@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261205
+SUMMARY:IEEE LS 2026 – Sustainable Smart Lighting World Conference
+LOCATION:Πολεμικό Μουσείο Αθηνών
+URL:https://ls2026.ece.ntua.gr/
+CATEGORIES:Academic
+DESCRIPTION:https://ls2026.ece.ntua.gr/\n\nBorderline: smart lighting/IoT\,
+  organised by NTUA
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e6404e4db7547db4@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:28th InfoCom World 2026 – Connected Intelligence
+LOCATION:Divani Caravel
+URL:https://infocomworld.gr/
+CATEGORIES:Telecom/ICT
+DESCRIPTION:https://infocomworld.gr/\n\n
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5caf3c3bcc728aff@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261213
+SUMMARY:Digitized'26 – Digital Design Conference
+LOCATION:Αθήνα (Σχολή Βακαλό)
+URL:https://www.digitized.gr/
+CATEGORIES:UX/Design
+DESCRIPTION:https://www.digitized.gr/\n\nWorkshops 9–11/12\, conference 1
+ 2/12
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:954d1d6a24aff7f2@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:RUNOTECH – Managing Cybersecurity Innovation
+LOCATION:ACG Events Hall\, Γραβιάς 6\, Αγ. Παρασκευή (hyb
+ rid)
+URL:https://www.runotech.gr/en/events
+CATEGORIES:Security
+DESCRIPTION:https://www.runotech.gr/en/events\n\n
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:496b9719943f76a5@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261213
+SUMMARY:WordCamp Athens 2026
+LOCATION:Πολεμικό Μουσείο\, Ριζάρη 2-4
+URL:https://athens.wordcamp.org/2026/
+CATEGORIES:Dev/WordPress
+DESCRIPTION:https://athens.wordcamp.org/2026/\n\n10 years of WordCamp in Gr
+ eece
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c04e0847e2d75625@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:TEDxEllinogermaniki Agogi Youth
+LOCATION:Ελληνογερμανική Αγωγή\, Δημ. Παναγέα
+ \, Παλλήνη
+URL:https://www.ted.com/tedx/events/71386
+CATEGORIES:TEDx
+DESCRIPTION:https://www.ted.com/tedx/events/71386\n\n
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:94db769262b77368@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270315
+SUMMARY:EACL 2027 – 20th Conf. of the European Chapter of the ACL
+LOCATION:Μέγαρο Μουσικής – MAICC
+URL:https://2027.eacl.org/
+CATEGORIES:Academic/AI
+DESCRIPTION:https://2027.eacl.org/\n\n
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:367b2993a272ba66@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:TEDxUniversity of Athens
+LOCATION:Πανεπιστημίου 30
+URL:https://www.ted.com/tedx/events/69093
+CATEGORIES:TEDx
+DESCRIPTION:https://www.ted.com/tedx/events/69093\n\nProbable successor of 
+ TEDxAUAthens (21/3/2026)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7bd421d8880dcc1a@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270322
+SUMMARY:AI Hackathon Greece 2027 (ACE AUEB)
+LOCATION:Αθήνα
+URL:https://hackathongreece.ai/
+CATEGORIES:AI/Hackathon
+DESCRIPTION:https://hackathongreece.ai/\n\nApplications open in December
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5460be7d76508d73@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270418
+SUMMARY:Devoxx Greece 2027
+LOCATION:Μέγαρο Μουσικής – MAICC
+URL:https://devoxx.gr/
+CATEGORIES:Dev
+DESCRIPTION:https://devoxx.gr/\n\ndevoxx.com lists Technopolis\, but the of
+ ficial site says Megaron
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9ab126e0f636b8f1@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:TEDxEleusis
+LOCATION:Ελευσίνα
+URL:https://www.ted.com/tedx/events/71499
+CATEGORIES:TEDx
+DESCRIPTION:https://www.ted.com/tedx/events/71499\n\nWest Attica
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f3abc29b39b710ca@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:WeTest.Athens 2027
+LOCATION:Μέγαρο Μουσικής Αθηνών
+URL:https://www.wetest-athens.gr/
+CATEGORIES:QA/Testing
+DESCRIPTION:https://www.wetest-athens.gr/\n\nWorkshops on 24/5. Date taken 
+ from ticketing/third-party listings (eventora\, zevente)\n\nSource: https:
+ //www.eventora.com/en/Events/wetestathens-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5b2963b592849be9@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:BSides Athens 2027
+LOCATION:Αρχαίος Ελαιώνας (ΠΑΔΑ)\, Θηβών 250\, Αι
+ γάλεω
+URL:https://www.bsidesath.gr/
+CATEGORIES:Security
+DESCRIPTION:https://www.bsidesath.gr/\n\n\n\nSource: https://bsides.org/eve
+ nt/bsides-athens/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f8e5f68b41088f80@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270712
+SUMMARY:RSS 2027 – Robotics: Science and Systems
+LOCATION:Αθήνα (MAICC / Χαροκόπειο)
+URL:https://roboticsconference.org/
+CATEGORIES:Academic/Robotics
+DESCRIPTION:https://roboticsconference.org/\n\n
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:35304acf721fb159@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270828
+SUMMARY:VLDB 2027 (53rd)
+LOCATION:Αθήνα (venue TBA)
+URL:https://www.vldb.org/2027/
+CATEGORIES:Academic/Data
+DESCRIPTION:https://www.vldb.org/2027/\n\n
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b1da31190971b59c@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270920
+SUMMARY:SEEDA-CECNSM 2027 (IEEE)
+LOCATION:ΠΑΔΑ\, Αιγάλεω
+URL:https://seeda2027.uniwa.gr/
+CATEGORIES:Academic
+DESCRIPTION:https://seeda2027.uniwa.gr/\n\n
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ba4ccb8ac12fb1db@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270926
+SUMMARY:IEEE IDAACS 2027
+LOCATION:Σαρόγλειο Μέγαρο (Λέσχη Αξιωματικών
+ )\, Ρηγίλλης & Β. Σοφίας
+URL:https://www.idaacs.net/2027
+CATEGORIES:Academic
+DESCRIPTION:https://www.idaacs.net/2027\n\n
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5509927a2c7da7bf@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271008
+SUMMARY:ECAI 2027 (30th European Conf. on AI)
+LOCATION:ΕΚΠΑ Σχολή Θετικών (2–3/10) & MAICC (4–7/10)
+URL:https://ecai2027.org/
+CATEGORIES:Academic/AI
+DESCRIPTION:https://ecai2027.org/\n\n
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a782bb9f9595f2e4@athens-tech-conferences
+DTSTAMP:20261024T133330Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271028
+SUMMARY:IEEE ISICAS 2027
+LOCATION:Αθήνα
+URL:https://ieee-cas.org/event/conference/2027-ieee-international-symposium
+ -integrated-circuits-and-systems
+CATEGORIES:Academic
+DESCRIPTION:https://ieee-cas.org/event/conference/2027-ieee-international-s
+ ymposium-integrated-circuits-and-systems\n\n
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
