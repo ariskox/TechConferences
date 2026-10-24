@@ -1,0 +1,32 @@
+:root{--bg:#0f1115;--card:#181b22;--fg:#e8eaf0;--muted:#9aa3b2;--accent:#5b9dff;--past:#6b7280}
+@media (prefers-color-scheme: light){:root{--bg:#f6f7fb;--card:#fff;--fg:#1b1f29;--muted:#5f6b7d;--accent:#2563eb;--past:#9ca3af}}
+*{box-sizing:border-box}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--fg);line-height:1.5}
+main{max-width:860px;margin:0 auto;padding:32px 20px 64px}
+h1{margin:0 0 6px;font-size:1.9rem}
+.sub{color:var(--muted);margin:0 0 20px}
+nav{margin-bottom:24px;font-size:.95rem}
+nav a{color:var(--accent);text-decoration:none;margin-right:16px}
+.actions{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:28px}
+.btn{display:inline-block;padding:9px 14px;border-radius:10px;background:var(--accent);color:#fff;text-decoration:none;font-weight:600;font-size:.92rem;border:0;cursor:pointer}
+.btn.secondary{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+h2.month{font-size:1rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin:28px 0 10px}
+.ev{background:var(--card);border-radius:14px;padding:16px 18px;margin-bottom:12px;display:grid;grid-template-columns:96px 1fr;gap:14px;box-shadow:0 1px 2px rgba(0,0,0,.08)}
+.date{font-weight:700;color:var(--accent);font-size:.95rem}
+.date small{display:block;color:var(--muted);font-weight:500}
+.title{font-weight:650;font-size:1.05rem;margin:0}
+.title a{color:inherit;text-decoration:none}
+.title a:hover{text-decoration:underline}
+.meta{color:var(--muted);font-size:.9rem;margin-top:3px}
+.tag{display:inline-block;font-size:.75rem;padding:1px 8px;border-radius:999px;border:1px solid var(--muted);color:var(--muted);margin-left:6px;vertical-align:middle}
+.notes{font-size:.88rem;margin-top:6px;color:var(--muted)}
+.past{opacity:.55}
+.toggle{color:var(--muted);font-size:.9rem;margin-bottom:8px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+.cards a{background:var(--card);border-radius:14px;padding:22px;color:inherit;text-decoration:none;box-shadow:0 1px 2px rgba(0,0,0,.08)}
+.cards a:hover{outline:2px solid var(--accent)}
+.cards h3{margin:0 0 6px}
+.cards p{margin:0;color:var(--muted)}
+footer{margin-top:40px;color:var(--muted);font-size:.85rem}
+footer a{color:var(--accent)}
+@media (max-width:560px){.ev{grid-template-columns:1fr;gap:6px}}
