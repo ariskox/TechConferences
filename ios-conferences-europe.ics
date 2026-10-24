@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ariskox//TechConferences-iOS-Europe//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:iOS Conferences Europe
+X-WR-TIMEZONE:Europe/Athens
+X-WR-CALDESC:iOS and Swift developer conferences in Europe
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:989e4f34c1fe5d45@ios-conferences-europe
+DTSTAMP:20261024T134313Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261104
+SUMMARY:Swift Connection 2026
+LOCATION:Théâtre de Paris\, 15 Rue Blanche\, Paris\, France
+URL:https://swiftconnection.io/
+CATEGORIES:iOS / Apple platforms
+DESCRIPTION:https://swiftconnection.io/\n\nFormerly FrenchKit. 1.5-day conf
+ erence (starts 13:00 on Nov 2)\, all talks in English.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:974976992d9fa2d6@ios-conferences-europe
+DTSTAMP:20261024T134313Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261113
+SUMMARY:Do iOS 2026
+LOCATION:NEMO Science Museum\, Oosterdok 2\, Amsterdam\, Netherlands
+URL:https://do-ios.com/
+CATEGORIES:iOS / Apple platforms
+DESCRIPTION:https://do-ios.com/\n\nNov 10 workshop day (Daniel Steinberg\, 
+ Peter Friese on Foundation Models)\; conference Nov 11–12.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9c0df1f61e050259@ios-conferences-europe
+DTSTAMP:20261024T134313Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270205
+SUMMARY:ARCtic Conference 2027
+LOCATION:Theatre Rio\, Oulu\, Finland
+URL:https://arcticonference.com/
+CATEGORIES:iOS / Apple platforms
+DESCRIPTION:https://arcticonference.com/\n\nOptional ski trip to Iso-Syöte
+  the weekend before (Jan 29–Feb 1). A June 2026 LinkedIn post said 16–
+ 18 Feb\; the official site now says Feb 2–4.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ce1d1f9cc2cc120f@ios-conferences-europe
+DTSTAMP:20261024T134313Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270319
+SUMMARY:Appdevcon 2027
+LOCATION:Amsterdam\, Netherlands
+URL:https://appdevcon.nl/
+CATEGORIES:Mobile (strong iOS track)
+DESCRIPTION:https://appdevcon.nl/\n\nMulti-platform app conference (iOS\, A
+ ndroid\, Flutter\, web) with an iOS track\; runs alongside Dutch PHP Confe
+ rence/Webdevcon. 2026 edition was held in a Pathé cinema\; 2027 venue not
+  stated. CfP open.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c78469517218ca3f@ios-conferences-europe
+DTSTAMP:20261024T134313Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270910
+SUMMARY:iOSDevUK 2027
+LOCATION:Aberystwyth University\, Aberystwyth\, United Kingdom
+URL:https://www.iosdevuk.com/
+CATEGORIES:iOS / Apple platforms
+DESCRIPTION:https://www.iosdevuk.com/\n\nCall for talk proposals late Decem
+ ber 2026.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1e03e6444029d0bb@ios-conferences-europe
+DTSTAMP:20261024T134313Z
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20271002
+SUMMARY:next.app devCon 2027 (swiftCon)
+LOCATION:CityCube Berlin\, Berlin\, Germany
+URL:https://www.nextappcon.com/swiftcon
+CATEGORIES:iOS / Apple platforms
+DESCRIPTION:https://www.nextappcon.com/swiftcon\n\nswiftCon is the Swift/iO
+ S conference inside next.app devCon (Mobile Seasons GmbH)\, which also has
+  Android/other mobile tracks.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
